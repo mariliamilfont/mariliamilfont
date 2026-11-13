@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=700&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=130&lines=Mar%C3%ADlia+Milfont%3BFull+Stack+Developer%3BExploring+Cybersecurity"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=700&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=130&lines=Mar%C3%ADlia+Milfont%3BFull+Stack%3BExploring+Cybersecurity"
       alt="Marília Milfont - Full Stack - Exploring Cybersecurity"
     />
   </a>
