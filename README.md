@@ -1,8 +1,12 @@
 
+
 <!-- Animated header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=800&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&width=850&height=110&lines=](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=2200&pause=700&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=)Mar%C3%ADlia+Milfont;Full+Stack+Developer;Exploring+Cybersecurity" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=1200&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=140&lines=Mar%C3%ADlia+Milfont%3BFull+Stack+Developer%3BExploring+Cybersecurity"
+      alt="Marília Milfont - Full Stack Developer - Exploring Cybersecurity"
+    />
   </a>
 </h1>
 
