@@ -2,7 +2,7 @@
 <!-- Animated header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=800&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&width=850&height=110&lines=Mar%C3%ADlia+Milfont;Full+Stack+Developer;Exploring+Cybersecurity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=800&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&width=850&height=110&lines=Mar%C3%ADlia+M[...]" />
   </a>
 </h1>
 
@@ -75,7 +75,7 @@ I'm currently expanding my knowledge of **cybersecurity**, with particular inter
 
 **Full Stack Developer — INCT EpiCare / GESAD**
 
-Development and maintenance of web applications, including institutional portals and chatbot-related platforms. Working with responsive interfaces, API integration, software maintenance, and collaborative development.
+Development and maintenance of web applications, including institutional portals and chatbot-related platforms. Working with responsive interfaces, API integration, software maintenance, and collabora[...]
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `Docker`
 
@@ -91,7 +91,7 @@ Development and maintenance of web applications, including institutional portals
 
 **Volunteer Researcher — LARCES / UECE**
 
-Participation in the AI SOC/SIEM project, including Python-based dataset analysis, collaborative feature extraction, and research on Wazuh, MITRE ATT&CK, and local language models for security alert interpretation.
+Participation in the AI SOC/SIEM project, including Python-based dataset analysis, collaborative feature extraction, and research on Wazuh, MITRE ATT&CK, and local language models for security alert i[...]
 
 `Python` `Wazuh` `Linux` `SQLite`
 
@@ -210,6 +210,9 @@ Collaborative research project focused on security monitoring and AI. My contrib
   </a>
   <a href="https://github.com/mariliamilfont">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mariliamilfont10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
