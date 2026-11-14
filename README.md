@@ -203,7 +203,7 @@ Collaborative research project focused on security monitoring and AI. My contrib
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mariliamilfont/mariliamilfont/output/activity-graph.svg" alt="Activity graph, last 31 days" />
+  <img src="https://raw.githubusercontent.com/mariliamilfont/mariliamilfont/output/github-activity-graph.svg" alt="Activity graph, last 31 days" />
 </p>
 
 ---
