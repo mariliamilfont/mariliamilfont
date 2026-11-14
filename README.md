@@ -2,8 +2,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=700&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=Mar%C3%ADlia+Milfont%3BFull+Stack+Developer+%E2%80%A2+Cybersecurity"
-      alt="Marília Milfont - Full Stack Developer | Cybersecurity"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=700&color=7AA2F7&background=1A1B26EE&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=Mar%C3%ADlia+Milfont%3BFull+Stack+Developer+&+Cybersecurity"
+      alt="Marília Milfont - Full Stack Developer • Cybersecurity"
     />
   </a>
 </h1>
