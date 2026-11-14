@@ -203,19 +203,6 @@ Collaborative research project focused on security monitoring and AI. My contrib
 </p>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=mariliamilfont&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mariliamilfont&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/mariliamilfont/mariliamilfont/output/github-activity-graph.svg" alt="Activity graph, last 31 days" />
 </p>
 
