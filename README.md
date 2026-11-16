@@ -196,18 +196,6 @@ Collaborative research project focused on security monitoring and AI. My contrib
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mariliamilfont&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mariliamilfont/mariliamilfont/output/github-activity-graph.svg" alt="Activity graph, last 31 days" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 <p align="center">
