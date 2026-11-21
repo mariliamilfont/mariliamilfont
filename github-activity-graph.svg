@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280" role="img" aria-label="GitHub activity, last 31 days">
+<defs>
+<linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#7AA2F7" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#1A1B26" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect width="820" height="280" rx="12" fill="#1A1B26"/>
+<line x1="56" y1="232.0" x2="796" y2="232.0" stroke="#24283B" stroke-width="1"/>
+<text x="46" y="236.0" text-anchor="end" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">0</text>
+<line x1="56" y1="188.0" x2="796" y2="188.0" stroke="#24283B" stroke-width="1"/>
+<text x="46" y="192.0" text-anchor="end" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">10</text>
+<line x1="56" y1="144.0" x2="796" y2="144.0" stroke="#24283B" stroke-width="1"/>
+<text x="46" y="148.0" text-anchor="end" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">20</text>
+<line x1="56" y1="100.0" x2="796" y2="100.0" stroke="#24283B" stroke-width="1"/>
+<text x="46" y="104.0" text-anchor="end" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">30</text>
+<line x1="56" y1="56.0" x2="796" y2="56.0" stroke="#24283B" stroke-width="1"/>
+<text x="46" y="60.0" text-anchor="end" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">40</text>
+<path d="M 56.0 227.6 C 60.1 228.3, 72.4 231.3, 80.7 232.0 C 88.9 232.7, 97.1 232.0, 105.3 232.0 C 113.6 232.0, 121.8 232.0, 130.0 232.0 C 138.2 232.0, 146.4 232.0, 154.7 232.0 C 162.9 232.0, 171.1 232.0, 179.3 232.0 C 187.6 232.0, 195.8 232.0, 204.0 232.0 C 212.2 232.0, 220.4 234.9, 228.7 232.0 C 236.9 229.1, 245.1 214.4, 253.3 214.4 C 261.6 214.4, 269.8 237.1, 278.0 232.0 C 286.2 226.9, 294.4 183.6, 302.7 183.6 C 310.9 183.6, 319.1 223.9, 327.3 232.0 C 335.6 240.1, 343.8 232.0, 352.0 232.0 C 360.2 232.0, 368.4 232.0, 376.7 232.0 C 384.9 232.0, 393.1 232.0, 401.3 232.0 C 409.6 232.0, 417.8 232.0, 426.0 232.0 C 434.2 232.0, 442.4 232.0, 450.7 232.0 C 458.9 232.0, 467.1 232.0, 475.3 232.0 C 483.6 232.0, 491.8 232.0, 500.0 232.0 C 508.2 232.0, 516.4 232.0, 524.7 232.0 C 532.9 232.0, 541.1 234.2, 549.3 232.0 C 557.6 229.8, 565.8 248.1, 574.0 218.8 C 582.2 189.5, 590.4 53.8, 598.7 56.0 C 606.9 58.2, 615.1 202.7, 623.3 232.0 C 631.6 261.3, 639.8 232.7, 648.0 232.0 C 656.2 231.3, 664.4 227.6, 672.7 227.6 C 680.9 227.6, 689.1 231.3, 697.3 232.0 C 705.6 232.7, 713.8 232.0, 722.0 232.0 C 730.2 232.0, 738.4 232.0, 746.7 232.0 C 754.9 232.0, 763.1 232.0, 771.3 232.0 C 779.6 232.0, 791.9 232.0, 796.0 232.0 L 796.0 232.0 L 56.0 232.0 Z" fill="url(#fill)"/>
+<path d="M 56.0 227.6 C 60.1 228.3, 72.4 231.3, 80.7 232.0 C 88.9 232.7, 97.1 232.0, 105.3 232.0 C 113.6 232.0, 121.8 232.0, 130.0 232.0 C 138.2 232.0, 146.4 232.0, 154.7 232.0 C 162.9 232.0, 171.1 232.0, 179.3 232.0 C 187.6 232.0, 195.8 232.0, 204.0 232.0 C 212.2 232.0, 220.4 234.9, 228.7 232.0 C 236.9 229.1, 245.1 214.4, 253.3 214.4 C 261.6 214.4, 269.8 237.1, 278.0 232.0 C 286.2 226.9, 294.4 183.6, 302.7 183.6 C 310.9 183.6, 319.1 223.9, 327.3 232.0 C 335.6 240.1, 343.8 232.0, 352.0 232.0 C 360.2 232.0, 368.4 232.0, 376.7 232.0 C 384.9 232.0, 393.1 232.0, 401.3 232.0 C 409.6 232.0, 417.8 232.0, 426.0 232.0 C 434.2 232.0, 442.4 232.0, 450.7 232.0 C 458.9 232.0, 467.1 232.0, 475.3 232.0 C 483.6 232.0, 491.8 232.0, 500.0 232.0 C 508.2 232.0, 516.4 232.0, 524.7 232.0 C 532.9 232.0, 541.1 234.2, 549.3 232.0 C 557.6 229.8, 565.8 248.1, 574.0 218.8 C 582.2 189.5, 590.4 53.8, 598.7 56.0 C 606.9 58.2, 615.1 202.7, 623.3 232.0 C 631.6 261.3, 639.8 232.7, 648.0 232.0 C 656.2 231.3, 664.4 227.6, 672.7 227.6 C 680.9 227.6, 689.1 231.3, 697.3 232.0 C 705.6 232.7, 713.8 232.0, 722.0 232.0 C 730.2 232.0, 738.4 232.0, 746.7 232.0 C 754.9 232.0, 763.1 232.0, 771.3 232.0 C 779.6 232.0, 791.9 232.0, 796.0 232.0" fill="none" stroke="#7AA2F7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="56.0" cy="227.6" r="3.2" fill="#BB9AF7"/>
+<circle cx="253.3" cy="214.4" r="3.2" fill="#BB9AF7"/>
+<circle cx="302.7" cy="183.6" r="3.2" fill="#BB9AF7"/>
+<circle cx="574.0" cy="218.8" r="3.2" fill="#BB9AF7"/>
+<circle cx="598.7" cy="56.0" r="3.2" fill="#BB9AF7"/>
+<text x="598.7" y="46.0" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#9ECE6A">40</text>
+<circle cx="672.7" cy="227.6" r="3.2" fill="#BB9AF7"/>
+<text x="56.0" y="254" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">22 Oct</text>
+<text x="179.3" y="254" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">27 Oct</text>
+<text x="302.7" y="254" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">01 Nov</text>
+<text x="426.0" y="254" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">06 Nov</text>
+<text x="549.3" y="254" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">11 Nov</text>
+<text x="672.7" y="254" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">16 Nov</text>
+<text x="796.0" y="254" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#565F89">21 Nov</text>
+<text x="56" y="30" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700" fill="#7AA2F7">mariliamilfont&apos;s GitHub Activity</text>
+<text x="56" y="47" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11.5" fill="#565F89">Last 31 days · 60 contributions · 6 active days · peak 40</text>
+</svg>
